@@ -152,6 +152,11 @@ This project is built for Turtil internship, but everything — from structure t
 B.Tech – GPREC
 Intern @ Turtil
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yellugari-harsha-vardhan-reddy-9673322ab/)
+
+
 > “No shortcuts. No AI-written backend. Just me, VS Code, and learning one bug at a time.”
 
 ```
