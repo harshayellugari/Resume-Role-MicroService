@@ -1,0 +1,1352 @@
+[
+    {
+        "resume": "resume_01.txt",
+        "job": "job_01.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_02.txt",
+        "job": "job_02.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_03.txt",
+        "job": "job_03.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_04.txt",
+        "job": "job_04.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_05.txt",
+        "job": "job_05.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_06.txt",
+        "job": "job_06.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_07.txt",
+        "job": "job_07.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_08.txt",
+        "job": "job_08.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_09.txt",
+        "job": "job_09.txt",
+        "fit_score": 0.27,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_10.txt",
+        "job": "job_10.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_11.txt",
+        "job": "job_11.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_12.txt",
+        "job": "job_12.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_13.txt",
+        "job": "job_13.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_14.txt",
+        "job": "job_14.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_15.txt",
+        "job": "job_15.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_16.txt",
+        "job": "job_16.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_17.txt",
+        "job": "job_17.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_18.txt",
+        "job": "job_18.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_19.txt",
+        "job": "job_19.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_20.txt",
+        "job": "job_20.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_21.txt",
+        "job": "job_21.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_22.txt",
+        "job": "job_22.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_23.txt",
+        "job": "job_23.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_24.txt",
+        "job": "job_24.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_25.txt",
+        "job": "job_25.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_26.txt",
+        "job": "job_26.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_27.txt",
+        "job": "job_27.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_28.txt",
+        "job": "job_28.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_29.txt",
+        "job": "job_29.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_30.txt",
+        "job": "job_30.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_31.txt",
+        "job": "job_31.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_32.txt",
+        "job": "job_32.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_33.txt",
+        "job": "job_33.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_34.txt",
+        "job": "job_34.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_35.txt",
+        "job": "job_35.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_36.txt",
+        "job": "job_36.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_37.txt",
+        "job": "job_37.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_38.txt",
+        "job": "job_38.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_39.txt",
+        "job": "job_39.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_40.txt",
+        "job": "job_40.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_41.txt",
+        "job": "job_41.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_42.txt",
+        "job": "job_42.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_43.txt",
+        "job": "job_43.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_44.txt",
+        "job": "job_44.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_45.txt",
+        "job": "job_45.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_46.txt",
+        "job": "job_46.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_47.txt",
+        "job": "job_47.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_48.txt",
+        "job": "job_48.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_49.txt",
+        "job": "job_49.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    },
+    {
+        "resume": "resume_50.txt",
+        "job": "job_50.txt",
+        "fit_score": 0.29,
+        "verdict": "weak_fit",
+        "matched_skills": [
+            "flask",
+            "python",
+            "aws",
+            "git",
+            "docker"
+        ],
+        "missing_skills": [
+            "system design"
+        ],
+        "recommended_learning_track": [
+            {
+                "skill": "system design",
+                "steps": [
+                    "Understand the basics of system design",
+                    "Set up a simple environment or project using system design",
+                    "Build a small app or script to practice system design",
+                    "Explore intermediate resources or tutorials for system design"
+                ]
+            }
+        ]
+    }
+]
