@@ -1,0 +1,394 @@
+{
+    "python": {
+        "steps": [
+            "Understand the basics of python",
+            "Set up a simple environment or project using python",
+            "Build a small app or script to practice python",
+            "Explore intermediate resources or tutorials for python"
+        ]
+    },
+    "java": {
+        "steps": [
+            "Understand the basics of java",
+            "Set up a simple environment or project using java",
+            "Build a small app or script to practice java",
+            "Explore intermediate resources or tutorials for java"
+        ]
+    },
+    "c++": {
+        "steps": [
+            "Understand the basics of c++",
+            "Set up a simple environment or project using c++",
+            "Build a small app or script to practice c++",
+            "Explore intermediate resources or tutorials for c++"
+        ]
+    },
+    "javascript": {
+        "steps": [
+            "Understand the basics of javascript",
+            "Set up a simple environment or project using javascript",
+            "Build a small app or script to practice javascript",
+            "Explore intermediate resources or tutorials for javascript"
+        ]
+    },
+    "html": {
+        "steps": [
+            "Understand the basics of html",
+            "Set up a simple environment or project using html",
+            "Build a small app or script to practice html",
+            "Explore intermediate resources or tutorials for html"
+        ]
+    },
+    "css": {
+        "steps": [
+            "Understand the basics of css",
+            "Set up a simple environment or project using css",
+            "Build a small app or script to practice css",
+            "Explore intermediate resources or tutorials for css"
+        ]
+    },
+    "react": {
+        "steps": [
+            "Understand the basics of react",
+            "Set up a simple environment or project using react",
+            "Build a small app or script to practice react",
+            "Explore intermediate resources or tutorials for react"
+        ]
+    },
+    "node.js": {
+        "steps": [
+            "Understand the basics of node.js",
+            "Set up a simple environment or project using node.js",
+            "Build a small app or script to practice node.js",
+            "Explore intermediate resources or tutorials for node.js"
+        ]
+    },
+    "express": {
+        "steps": [
+            "Understand the basics of express",
+            "Set up a simple environment or project using express",
+            "Build a small app or script to practice express",
+            "Explore intermediate resources or tutorials for express"
+        ]
+    },
+    "mongodb": {
+        "steps": [
+            "Understand the basics of mongodb",
+            "Set up a simple environment or project using mongodb",
+            "Build a small app or script to practice mongodb",
+            "Explore intermediate resources or tutorials for mongodb"
+        ]
+    },
+    "mysql": {
+        "steps": [
+            "Understand the basics of mysql",
+            "Set up a simple environment or project using mysql",
+            "Build a small app or script to practice mysql",
+            "Explore intermediate resources or tutorials for mysql"
+        ]
+    },
+    "postgresql": {
+        "steps": [
+            "Understand the basics of postgresql",
+            "Set up a simple environment or project using postgresql",
+            "Build a small app or script to practice postgresql",
+            "Explore intermediate resources or tutorials for postgresql"
+        ]
+    },
+    "docker": {
+        "steps": [
+            "Understand the basics of docker",
+            "Set up a simple environment or project using docker",
+            "Build a small app or script to practice docker",
+            "Explore intermediate resources or tutorials for docker"
+        ]
+    },
+    "aws": {
+        "steps": [
+            "Understand the basics of aws",
+            "Set up a simple environment or project using aws",
+            "Build a small app or script to practice aws",
+            "Explore intermediate resources or tutorials for aws"
+        ]
+    },
+    "azure": {
+        "steps": [
+            "Understand the basics of azure",
+            "Set up a simple environment or project using azure",
+            "Build a small app or script to practice azure",
+            "Explore intermediate resources or tutorials for azure"
+        ]
+    },
+    "git": {
+        "steps": [
+            "Understand the basics of git",
+            "Set up a simple environment or project using git",
+            "Build a small app or script to practice git",
+            "Explore intermediate resources or tutorials for git"
+        ]
+    },
+    "linux": {
+        "steps": [
+            "Understand the basics of linux",
+            "Set up a simple environment or project using linux",
+            "Build a small app or script to practice linux",
+            "Explore intermediate resources or tutorials for linux"
+        ]
+    },
+    "flask": {
+        "steps": [
+            "Understand the basics of flask",
+            "Set up a simple environment or project using flask",
+            "Build a small app or script to practice flask",
+            "Explore intermediate resources or tutorials for flask"
+        ]
+    },
+    "django": {
+        "steps": [
+            "Understand the basics of django",
+            "Set up a simple environment or project using django",
+            "Build a small app or script to practice django",
+            "Explore intermediate resources or tutorials for django"
+        ]
+    },
+    "rest api": {
+        "steps": [
+            "Understand the basics of rest api",
+            "Set up a simple environment or project using rest api",
+            "Build a small app or script to practice rest api",
+            "Explore intermediate resources or tutorials for rest api"
+        ]
+    },
+    "machine learning": {
+        "steps": [
+            "Understand the basics of machine learning",
+            "Set up a simple environment or project using machine learning",
+            "Build a small app or script to practice machine learning",
+            "Explore intermediate resources or tutorials for machine learning"
+        ]
+    },
+    "data analysis": {
+        "steps": [
+            "Understand the basics of data analysis",
+            "Set up a simple environment or project using data analysis",
+            "Build a small app or script to practice data analysis",
+            "Explore intermediate resources or tutorials for data analysis"
+        ]
+    },
+    "system design": {
+        "steps": [
+            "Understand the basics of system design",
+            "Set up a simple environment or project using system design",
+            "Build a small app or script to practice system design",
+            "Explore intermediate resources or tutorials for system design"
+        ]
+    },
+    "devops": {
+        "steps": [
+            "Understand the basics of devops",
+            "Set up a simple environment or project using devops",
+            "Build a small app or script to practice devops",
+            "Explore intermediate resources or tutorials for devops"
+        ]
+    },
+    "cloud computing": {
+        "steps": [
+            "Understand the basics of cloud computing",
+            "Set up a simple environment or project using cloud computing",
+            "Build a small app or script to practice cloud computing",
+            "Explore intermediate resources or tutorials for cloud computing"
+        ]
+    },
+    "mobile development": {
+        "steps": [
+            "Understand the basics of mobile development",
+            "Set up a simple environment or project using mobile development",
+            "Build a small app or script to practice mobile development",
+            "Explore intermediate resources or tutorials for mobile development"
+        ]
+    },
+    "web development": {
+        "steps": [
+            "Understand the basics of web development",
+            "Set up a simple environment or project using web development",
+            "Build a small app or script to practice web development",
+            "Explore intermediate resources or tutorials for web development"
+        ]
+    },
+    "ui/ux design": {
+        "steps": [
+            "Understand the basics of ui/ux design",
+            "Set up a simple environment or project using ui/ux design",
+            "Build a small app or script to practice ui/ux design",
+            "Explore intermediate resources or tutorials for ui/ux design"
+        ]
+    },
+    "agile": {
+        "steps": [
+            "Understand the basics of agile",
+            "Set up a simple environment or project using agile",
+            "Build a small app or script to practice agile",
+            "Explore intermediate resources or tutorials for agile"
+        ]
+    },
+    "blockchain": {
+        "steps": [
+            "Understand the basics of blockchain",
+            "Set up a simple environment or project using blockchain",
+            "Build a small app or script to practice blockchain",
+            "Explore intermediate resources or tutorials for blockchain"
+        ]
+    },
+    "artificial intelligence": {
+        "steps": [
+            "Understand the basics of artificial intelligence",
+            "Set up a simple environment or project using artificial intelligence",
+            "Build a small app or script to practice artificial intelligence",
+            "Explore intermediate resources or tutorials for artificial intelligence"
+        ]
+    },
+    "internet of things": {
+        "steps": [
+            "Understand the basics of internet of things",
+            "Set up a simple environment or project using internet of things",
+            "Build a small app or script to practice internet of things",
+            "Explore intermediate resources or tutorials for internet of things"
+        ]
+    },
+    "cybersecurity": {
+        "steps": [
+            "Understand the basics of cybersecurity",
+            "Set up a simple environment or project using cybersecurity",
+            "Build a small app or script to practice cybersecurity",
+            "Explore intermediate resources or tutorials for cybersecurity"
+        ]
+    },
+    "big data": {
+        "steps": [
+            "Understand the basics of big data",
+            "Set up a simple environment or project using big data",
+            "Build a small app or script to practice big data",
+            "Explore intermediate resources or tutorials for big data"
+        ]
+    },
+    "seo": {
+        "steps": [
+            "Understand the basics of seo",
+            "Set up a simple environment or project using seo",
+            "Build a small app or script to practice seo",
+            "Explore intermediate resources or tutorials for seo"
+        ]
+    },
+    "kubernetes": {
+        "steps": [
+            "Understand the basics of kubernetes",
+            "Set up a simple environment or project using kubernetes",
+            "Build a small app or script to practice kubernetes",
+            "Explore intermediate resources or tutorials for kubernetes"
+        ]
+    },
+    "graphql": {
+        "steps": [
+            "Understand the basics of graphql",
+            "Set up a simple environment or project using graphql",
+            "Build a small app or script to practice graphql",
+            "Explore intermediate resources or tutorials for graphql"
+        ]
+    },
+    "typescript": {
+        "steps": [
+            "Understand the basics of typescript",
+            "Set up a simple environment or project using typescript",
+            "Build a small app or script to practice typescript",
+            "Explore intermediate resources or tutorials for typescript"
+        ]
+    },
+    "flutter": {
+        "steps": [
+            "Understand the basics of flutter",
+            "Set up a simple environment or project using flutter",
+            "Build a small app or script to practice flutter",
+            "Explore intermediate resources or tutorials for flutter"
+        ]
+    },
+    "swift": {
+        "steps": [
+            "Understand the basics of swift",
+            "Set up a simple environment or project using swift",
+            "Build a small app or script to practice swift",
+            "Explore intermediate resources or tutorials for swift"
+        ]
+    },
+    "android": {
+        "steps": [
+            "Understand the basics of android",
+            "Set up a simple environment or project using android",
+            "Build a small app or script to practice android",
+            "Explore intermediate resources or tutorials for android"
+        ]
+    },
+    "ruby": {
+        "steps": [
+            "Understand the basics of ruby",
+            "Set up a simple environment or project using ruby",
+            "Build a small app or script to practice ruby",
+            "Explore intermediate resources or tutorials for ruby"
+        ]
+    },
+    "go": {
+        "steps": [
+            "Understand the basics of go",
+            "Set up a simple environment or project using go",
+            "Build a small app or script to practice go",
+            "Explore intermediate resources or tutorials for go"
+        ]
+    },
+    "rust": {
+        "steps": [
+            "Understand the basics of rust",
+            "Set up a simple environment or project using rust",
+            "Build a small app or script to practice rust",
+            "Explore intermediate resources or tutorials for rust"
+        ]
+    },
+    "scala": {
+        "steps": [
+            "Understand the basics of scala",
+            "Set up a simple environment or project using scala",
+            "Build a small app or script to practice scala",
+            "Explore intermediate resources or tutorials for scala"
+        ]
+    },
+    "elixir": {
+        "steps": [
+            "Understand the basics of elixir",
+            "Set up a simple environment or project using elixir",
+            "Build a small app or script to practice elixir",
+            "Explore intermediate resources or tutorials for elixir"
+        ]
+    },
+    "c#": {
+        "steps": [
+            "Understand the basics of c#",
+            "Set up a simple environment or project using c#",
+            "Build a small app or script to practice c#",
+            "Explore intermediate resources or tutorials for c#"
+        ]
+    },
+    "php": {
+        "steps": [
+            "Understand the basics of php",
+            "Set up a simple environment or project using php",
+            "Build a small app or script to practice php",
+            "Explore intermediate resources or tutorials for php"
+        ]
+    },
+    "vue.js": {
+        "steps": [
+            "Understand the basics of vue.js",
+            "Set up a simple environment or project using vue.js",
+            "Build a small app or script to practice vue.js",
+            "Explore intermediate resources or tutorials for vue.js"
+        ]
+    }
+}
