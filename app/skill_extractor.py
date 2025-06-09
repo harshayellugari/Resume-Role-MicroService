@@ -1,17 +1,15 @@
 import json
 import spacy
+
 nlp = spacy.load("en_core_web_sm")
 
-with open("app/skills.json", "r") as file:
-    skills_data = json.load(file)
+with open("app/skills.json", "r") as f:
+    skills_data = json.load(f)
 
 alias_map = {}
-
-
-for skill, alias_list in skills_data.items():
-    for alias in alias_list:
+for skill, aliases in skills_data.items():
+    for alias in aliases:
         alias_map[alias.lower()] = skill
-
 
 def extract_skills(text):
     text = text.lower()
@@ -23,7 +21,7 @@ def extract_skills(text):
             skills_found.add(alias_map[token.text])
 
     for phrase in alias_map:
-        if phrase in text:
+        if f" {phrase} " in f" {text} ": 
             skills_found.add(alias_map[phrase])
 
     return skills_found

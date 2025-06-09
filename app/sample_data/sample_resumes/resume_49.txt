@@ -1,3 +1,0 @@
-Name: Candidate 49
-Skills: Python, Flask, Docker, AWS, Git
-Experience: Developed backend systems using Python and deployed using Docker on AWS.

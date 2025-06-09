@@ -1,2 +1,0 @@
-Job Title: Backend Developer 49
-Looking for candidates skilled in Python, Flask, Docker, AWS, and Git. Knowledge of system design is a plus.
