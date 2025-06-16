@@ -35,7 +35,7 @@ def evaluate_fit(data: FitRequest):
 
     matched = list(resume_skills & jd_skills)
     missing = list(jd_skills - resume_skills)
-    score = compute_fit_score(data.resume_text, data.job_description)
+    score = compute_fit_score(resume_skills, jd_skills)
 
     cutoffs = CONFIG["fit_score_cutoffs"]
     if score >= cutoffs["strong_fit"]:
