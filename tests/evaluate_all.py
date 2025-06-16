@@ -22,7 +22,7 @@ for r_id in range(1, 21):
 
         matched = list(resume_skills & jd_skills)
         missing = list(jd_skills - resume_skills)
-        score = compute_fit_score(resume_text, jd_text)
+        score = compute_fit_score(resume_skills, jd_skills)
 
         cutoffs = config["fit_score_cutoffs"]
         if score >= cutoffs["strong_fit"]:
@@ -44,7 +44,7 @@ for r_id in range(1, 21):
             "recommended_learning_track": learning_track
         })
 
-with open("evaluation_results.json", "w") as out:
+with open("tests/evaluation_results.json", "w") as out:
     json.dump(results, out, indent=4)
 
 print("Evaluation complete.")
