@@ -1,0 +1,1 @@
+Hiring devops engineer with knowledge in kubernetes orchestration, CI/CD, and cloud architecture. Skills in git version control and linux os preferred.

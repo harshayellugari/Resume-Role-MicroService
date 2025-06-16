@@ -1,0 +1,1 @@
+I’m Dev, working in devops tools for cloud-native applications using kubernetes orchestration, automated pipelines, and ubuntu scripts. Also helped teams in agile transformation.

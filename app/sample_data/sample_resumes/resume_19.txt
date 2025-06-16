@@ -1,0 +1,1 @@
+This is Abhinav. I’ve done projects using elixir programming and nosql databases. Also learning graphql query patterns for complex app requirements.

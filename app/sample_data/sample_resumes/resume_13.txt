@@ -1,0 +1,1 @@
+Hi, I’m Tejas. I’ve developed scalable systems using architecture design principles, containerized with dockerfile, and deployed on aws cloud. Also worked with big data pipelines.

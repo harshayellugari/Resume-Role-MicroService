@@ -1,0 +1,1 @@
+Hey, Omkar here. I specialize in core java, android development, and backend systems using nodejs and expressjs. I’ve worked on mongodb based NoSQL storage and deployed containerized apps using docker cli.

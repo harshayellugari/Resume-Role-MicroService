@@ -1,0 +1,1 @@
+I’m Riya, a data enthusiast with experience in analyzing data using python, pandas, and exploratory tools. My work involves dashboards, trends, and data pipelines across cloud services.

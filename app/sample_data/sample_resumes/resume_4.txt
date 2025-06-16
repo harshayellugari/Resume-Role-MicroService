@@ -1,0 +1,1 @@
+I'm Lavanya, passionate about artificial intelligence, building ml models, and working with data pipelines. I use python programming for everything from prototyping to deploying in cloud architecture.

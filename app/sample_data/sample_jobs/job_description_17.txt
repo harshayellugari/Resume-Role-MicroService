@@ -1,0 +1,1 @@
+Hiring intern for devops automation tasks. Required: basic understanding of linux, scripting, docker, and github workflows.

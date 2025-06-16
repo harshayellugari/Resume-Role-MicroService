@@ -1,0 +1,1 @@
+I am Rahul, a backend developer with strong grip on node, express, and relational databases like mysql and psql. My CI/CD pipelines are managed with git and azure cloud.

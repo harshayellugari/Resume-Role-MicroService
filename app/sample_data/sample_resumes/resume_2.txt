@@ -1,0 +1,1 @@
+Hello, I’m Ayesha, a software engineer skilled in python3, python flask, and restful API design. I’m also hands-on with html, cascading style sheets, and frontend tools like react.js and vanilla js.

@@ -1,0 +1,1 @@
+My name is Danish, a full-stack engineer familiar with vuejs, typescript programming, and rest api principles. On the backend, I use ruby on rails and sometimes even dabble in php programming.

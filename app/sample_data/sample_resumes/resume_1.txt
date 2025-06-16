@@ -1,0 +1,1 @@
+I am Hemadri, a tech enthusiast proficient in java programming, experienced with git version control, and comfortable developing web apps using spring boot and postgres databases. I’ve also explored dockerfile writing and architecture design.

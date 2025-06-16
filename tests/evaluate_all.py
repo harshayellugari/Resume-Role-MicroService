@@ -13,7 +13,7 @@ for i in range(1, 51):
     with open(f"app/sample_data/sample_resumes/resume_{i}.txt") as r:
         resume_text = r.read()
 
-    with open(f"app/sample_data/sample_jobs/job_{i}.txt") as j:
+    with open(f"app/sample_data/sample_jobs/job_description_{i}.txt") as j:
         jd_text = j.read()
 
     resume_skills = extract_skills(resume_text)

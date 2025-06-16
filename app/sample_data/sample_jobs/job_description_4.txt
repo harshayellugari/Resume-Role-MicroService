@@ -1,0 +1,1 @@
+We need a software developer who can write restful APIs using flask or django, work on sql database like mysql or postgres, and handle deployments via dockerfile.

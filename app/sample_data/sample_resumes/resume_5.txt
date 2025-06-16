@@ -1,0 +1,1 @@
+Sameer here, with skills in golang, k8s, and devops practices. I write APIs in graphql, handle deployments with docker, and operate mostly on ubuntu systems. I value scrum and other agile methodologies.
