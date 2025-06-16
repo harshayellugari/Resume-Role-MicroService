@@ -1,1 +1,1 @@
-Hi, Keerthi here. I specialize in cybersecurity, ensuring network security and managing secure systems across linux os environments. I’ve also dealt with information security audits in enterprise setups.
+Hey, I’m Danish. I use vuejs, typescript, graphql, and have backend exposure using ruby on rails and nosql database.

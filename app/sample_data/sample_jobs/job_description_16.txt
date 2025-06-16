@@ -1,1 +1,1 @@
-We need someone for big data transformation projects. Must know data engineering tools, nosql database handling, and cloud architecture.
+We need a devops engineer with k8s, containerization, git, and continuous delivery tools.

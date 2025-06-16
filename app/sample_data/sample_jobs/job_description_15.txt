@@ -1,1 +1,1 @@
-Seeking a junior dev with interest in web apps using vanilla js, bootstrap, and mongo. Some exposure to expressjs helps.
+Hiring a backend engineer with expressjs, mongo, node.js, and docker deployment experience.

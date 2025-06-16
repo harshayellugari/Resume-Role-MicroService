@@ -1,1 +1,1 @@
-This is Bhavana. I love building engaging user experiences with vue framework and hypertext markup language. My backend stack includes php and mysql with Laravel-style structures.
+Siddharth here. I use .net core and c#, and deployed cloud apps on azure cloud using github actions.

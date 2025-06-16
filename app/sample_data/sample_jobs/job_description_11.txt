@@ -1,1 +1,1 @@
-We want a UI/UX designer who understands user interface design, accessibility standards, and responsive design using html and css.
+Full stack role with node, mongo, express, docker familiarity, and agile workflows.

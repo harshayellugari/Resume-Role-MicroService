@@ -1,1 +1,1 @@
-Looking for AI engineer with python, ml, and ai experience, who can also write scalable APIs using flask and deploy to aws cloud.
+Looking for full-stack web dev with nodejs, react, mongodb, and docker proficiency.

@@ -1,1 +1,1 @@
-Hi, I’m Trisha. My forte lies in mobile apps, both ios development via swift programming and android with java android. I use firebase, but I’m also learning flutter framework using dart flutter.
+This is Trisha. I develop mobile apps using android, java, flutter framework, and dart flutter. Also worked on ios apps using swift programming.

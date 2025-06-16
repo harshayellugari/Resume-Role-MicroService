@@ -1,1 +1,1 @@
-We need a software developer who can write restful APIs using flask or django, work on sql database like mysql or postgres, and handle deployments via dockerfile.
+We need an AI/ML expert with experience in machine learning, data engineering, python, and deployment on amazon web services.

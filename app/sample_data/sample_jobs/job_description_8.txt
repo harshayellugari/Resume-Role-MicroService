@@ -1,1 +1,1 @@
-Join our full-stack dev team with experience in MERN stack (mongo, express, react, node), agile methodology, and github collaboration.
+Frontend developer needed with vue.js, graphql api experience, and knowledge of any backend tech like ruby or php.

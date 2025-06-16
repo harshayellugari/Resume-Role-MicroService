@@ -1,1 +1,1 @@
-Looking for a frontend dev with solid skills in vuejs, hypertext markup language, and cascading style sheets. Bonus for experience in user interface design.
+Seeking a python developer experienced with flask, api design, docker, and linux. Must be comfortable deploying apps on amazon web services.

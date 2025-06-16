@@ -1,1 +1,1 @@
-We are hiring a backend engineer familiar with nodejs, expressjs, and mongo. You must know container tools like docker cli and deployment on amazon web services.
+Looking for a backend engineer with java, git, mysql, spring, and system architecture experience. Familiarity with microsoft azure preferred.

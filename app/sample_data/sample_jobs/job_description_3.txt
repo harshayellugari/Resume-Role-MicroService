@@ -1,1 +1,1 @@
-Join our AI team working on machine intelligence, ml models, and big data. Preferred experience in python programming and cloud computing.
+Looking for a full stack engineer with MERN stack (node, express, react, mongo), agile, and git versioning tools.

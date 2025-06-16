@@ -1,1 +1,1 @@
-I’m Shruti, skilled in full stack web using javascript, react, and express. I’ve deployed MERN stack apps and handled UI/UX design flows for new user onboarding.
+This is Abhinav. I enjoy mathematics and write in rust occasionally. No professional tech experience yet.

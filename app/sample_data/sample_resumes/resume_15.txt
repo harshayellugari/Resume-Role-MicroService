@@ -1,1 +1,1 @@
-I’m Siddharth, experienced in .net core and C# with enterprise scale solutions. I also leverage microsoft azure for CI/CD and API gateway orchestration.
+Hi, I’m Riya. I’ve worked mostly with data visualization tools and spreadsheets. Learning basics of cloud services.

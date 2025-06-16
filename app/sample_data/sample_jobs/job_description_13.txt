@@ -1,1 +1,1 @@
-We are hiring for a software engineer familiar with golang and graphql api design, with understanding of system design.
+Frontend developer with vuejs, html/css experience, and ability to collaborate with backend (php/mysql).

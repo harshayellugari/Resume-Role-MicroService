@@ -1,1 +1,1 @@
-Hello, I’m Ayesha, a software engineer skilled in python3, python flask, and restful API design. I’m also hands-on with html, cascading style sheets, and frontend tools like react.js and vanilla js.
+Hi, I’m Ayesha. My strengths include python programming, flask, restful api development, and containerization with docker cli. I’ve hosted apps on AWS cloud and use linux os regularly.

@@ -1,1 +1,1 @@
-Hiring intern for devops automation tasks. Required: basic understanding of linux, scripting, docker, and github workflows.
+Frontend engineer needed with javascript, reactjs, and graphql api knowledge.

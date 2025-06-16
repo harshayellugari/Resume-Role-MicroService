@@ -1,1 +1,1 @@
-We want someone to maintain and improve our mobile apps. Experience in ios development, swift, and android is highly desirable.
+We are hiring an AI developer with python, ml, flask, and cloud architecture experience.

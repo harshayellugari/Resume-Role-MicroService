@@ -1,1 +1,1 @@
-Looking for a security analyst with hands-on experience in cybersecurity, information security practices, and network security testing tools.
+We need a backend developer with api development, django or flask, mysql, and cloud computing skills.

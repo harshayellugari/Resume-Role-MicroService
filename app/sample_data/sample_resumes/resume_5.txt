@@ -1,1 +1,1 @@
-Sameer here, with skills in golang, k8s, and devops practices. I write APIs in graphql, handle deployments with docker, and operate mostly on ubuntu systems. I value scrum and other agile methodologies.
+I'm Rahul, proficient in dockerfile writing, kubernetes orchestration, ubuntu scripting, and git version control. I help teams with devops practices and CI/CD setup.

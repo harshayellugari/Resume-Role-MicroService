@@ -1,1 +1,1 @@
-Hey, I’m Vamsi. I’m an AI + IoT enthusiast. I work on machine intelligence, deploy edge devices in connected devices infrastructure, and use data analytics for optimizing iot insights in cloud services.
+Hello, Meera here. I’m good at user experience design and frontend using react.js and cascading style sheets.

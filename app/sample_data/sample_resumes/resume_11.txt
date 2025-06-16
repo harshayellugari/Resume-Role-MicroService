@@ -1,1 +1,1 @@
-I’m Meera, passionate about frontend engineering using reactjs, ts, and user interface design. I ensure accessibility and performance using advanced css and modern js stacks.
+Aravind here. My projects use nodejs, express.js, mongo, and I follow agile methodology. Used docker for local testing.
