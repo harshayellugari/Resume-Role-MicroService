@@ -154,7 +154,8 @@ Intern @ Turtil
 
 ## 🔗 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin](https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png))](https://www.linkedin.com/in/yellugari-harsha-vardhan-reddy-9673322ab/)
+[![LinkedIn](https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png)](https://www.linkedin.com/in/yellugari-harsha-vardhan-reddy-9673322ab/)
+
 > “No shortcuts. No AI-written backend. Just me, VS Code, and learning one bug at a time.”
 
 ```
